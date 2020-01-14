@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/hrich2/CSCD379-2020-Winter/_apis/build/status/HMRich.EWU-CSCD379-2020-Winter?branchName=origin%2FHW1)](https://dev.azure.com/hrich2/CSCD379-2020-Winter/_build/latest?definitionId=3&branchName=origin%2FHW1)
+[![Build Status](https://dev.azure.com/hrich2/CSCD379-2020-Winter/_apis/build/status/HMRich.EWU-CSCD379-2020-Winter?branchName=master)](https://dev.azure.com/hrich2/CSCD379-2020-Winter/_build/latest?definitionId=3&branchName=master)
 # Assignment
 
 The purpose of this assignment is to learn the following:
